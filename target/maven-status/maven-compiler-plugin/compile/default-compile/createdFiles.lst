@@ -1,0 +1,10 @@
+queries\GetRecommendationsQuery.class
+command\UpdateRecipeC.class
+command\CreateRecommendationC.class
+command\CreateRecipeC.class
+events\RecipeUpdatedEvent.class
+events\RecommendationCreatedEvent.class
+command\UpdateRecommendationC.class
+events\RecommendationUpdatedEvent.class
+events\RecipeCreatedEvent.class
+queries\GetRecipesQuery.class

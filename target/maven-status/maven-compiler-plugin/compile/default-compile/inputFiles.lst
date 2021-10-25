@@ -1,0 +1,10 @@
+C:\Users\-zL\Desktop\publication-contracts\src\main\java\events\RecommendationUpdatedEvent.java
+C:\Users\-zL\Desktop\publication-contracts\src\main\java\events\RecommendationCreatedEvent.java
+C:\Users\-zL\Desktop\publication-contracts\src\main\java\command\CreateRecommendationC.java
+C:\Users\-zL\Desktop\publication-contracts\src\main\java\command\UpdateRecommendationC.java
+C:\Users\-zL\Desktop\publication-contracts\src\main\java\events\RecipeCreatedEvent.java
+C:\Users\-zL\Desktop\publication-contracts\src\main\java\command\CreateRecipeC.java
+C:\Users\-zL\Desktop\publication-contracts\src\main\java\queries\GetRecipesQuery.java
+C:\Users\-zL\Desktop\publication-contracts\src\main\java\command\UpdateRecipeC.java
+C:\Users\-zL\Desktop\publication-contracts\src\main\java\events\RecipeUpdatedEvent.java
+C:\Users\-zL\Desktop\publication-contracts\src\main\java\queries\GetRecommendationsQuery.java
