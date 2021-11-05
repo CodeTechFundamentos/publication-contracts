@@ -8,3 +8,5 @@ command\UpdateRecommendationC.class
 events\RecommendationUpdatedEvent.class
 events\RecipeCreatedEvent.class
 queries\GetRecipesQuery.class
+result\RecipeResult.class
+result\RecommendationResult.class
