@@ -1,5 +1,7 @@
+C:\Users\-zL\Documents\GitHub\publication-contracts\src\main\java\command\DeleteRecommendationC.java
 C:\Users\-zL\Documents\GitHub\publication-contracts\src\main\java\queries\GetRecommendationsQuery.java
 C:\Users\-zL\Documents\GitHub\publication-contracts\src\main\java\command\UpdateRecipeC.java
+C:\Users\-zL\Documents\GitHub\publication-contracts\src\main\java\events\RecommendationDeletedEvent.java
 C:\Users\-zL\Documents\GitHub\publication-contracts\src\main\java\result\RecommendationUpdateResult.java
 C:\Users\-zL\Documents\GitHub\publication-contracts\src\main\java\command\CreateRecommendationC.java
 C:\Users\-zL\Documents\GitHub\publication-contracts\src\main\java\events\RecommendationCreatedEvent.java
@@ -7,8 +9,10 @@ C:\Users\-zL\Documents\GitHub\publication-contracts\src\main\java\events\Recomme
 C:\Users\-zL\Documents\GitHub\publication-contracts\src\main\java\queries\GetRecipesQuery.java
 C:\Users\-zL\Documents\GitHub\publication-contracts\src\main\java\result\RecipeResult.java
 C:\Users\-zL\Documents\GitHub\publication-contracts\src\main\java\command\CreateRecipeC.java
+C:\Users\-zL\Documents\GitHub\publication-contracts\src\main\java\events\RecipeDeletedEvent.java
 C:\Users\-zL\Documents\GitHub\publication-contracts\src\main\java\events\RecipeCreatedEvent.java
 C:\Users\-zL\Documents\GitHub\publication-contracts\src\main\java\result\RecipeUpdateResult.java
 C:\Users\-zL\Documents\GitHub\publication-contracts\src\main\java\command\UpdateRecommendationC.java
 C:\Users\-zL\Documents\GitHub\publication-contracts\src\main\java\events\RecipeUpdatedEvent.java
+C:\Users\-zL\Documents\GitHub\publication-contracts\src\main\java\command\DeleteRecipeC.java
 C:\Users\-zL\Documents\GitHub\publication-contracts\src\main\java\result\RecommendationResult.java

@@ -13,5 +13,8 @@ public class UpdateRecipeC {
     private String description;
     private String preparation;
     private String ingredients;
+    private Integer favorite;
+    private Date createdAt;
     private Date lastModification;
+    private Integer nutritionistId;
 }

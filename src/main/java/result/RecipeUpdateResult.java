@@ -11,14 +11,20 @@ public class RecipeUpdateResult {
     private String description;
     private String preparation;
     private String ingredients;
+    private Integer favorite;
+    private Date createdAt;
     private Date lastModification;
+    private Integer nutritionistId;
 
-    public RecipeUpdateResult(String id, String name, String description, String preparation, String ingredients, Date lastModification) {
+    public RecipeUpdateResult(String id, String name, String description, String preparation, String ingredients, Integer favorite, Date createdAt, Date lastModification, Integer nutritionistId) {
         this.id = id;
         this.name = name;
         this.description = description;
         this.preparation = preparation;
         this.ingredients = ingredients;
+        this.favorite = favorite;
+        this.createdAt = createdAt;
         this.lastModification = lastModification;
+        this.nutritionistId = nutritionistId;
     }
 }

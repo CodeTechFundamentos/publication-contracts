@@ -1,8 +1,10 @@
 result\RecommendationUpdateResult.class
 events\RecipeUpdatedEvent.class
 result\RecipeUpdateResult.class
+command\DeleteRecommendationC.class
 queries\GetRecipesQuery.class
 result\RecipeResult.class
+events\RecipeDeletedEvent.class
 result\RecommendationResult.class
 queries\GetRecommendationsQuery.class
 command\UpdateRecipeC.class
@@ -11,4 +13,6 @@ command\CreateRecipeC.class
 events\RecommendationCreatedEvent.class
 command\UpdateRecommendationC.class
 events\RecommendationUpdatedEvent.class
+command\DeleteRecipeC.class
 events\RecipeCreatedEvent.class
+events\RecommendationDeletedEvent.class
