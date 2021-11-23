@@ -16,5 +16,5 @@ public class UpdateRecipeC {
     private Integer favorite;
     private Date createdAt;
     private Date lastModification;
-    private Integer nutritionistId;
+    private String nutritionistId;
 }

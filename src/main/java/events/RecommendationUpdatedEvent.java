@@ -13,5 +13,5 @@ public class RecommendationUpdatedEvent {
     private String description;
     private Date createdAt;
     private Date lastModification;
-    private Integer nutritionistId;
+    private String nutritionistId;
 }

@@ -14,9 +14,9 @@ public class RecipeUpdateResult {
     private Integer favorite;
     private Date createdAt;
     private Date lastModification;
-    private Integer nutritionistId;
+    private String nutritionistId;
 
-    public RecipeUpdateResult(String id, String name, String description, String preparation, String ingredients, Integer favorite, Date createdAt, Date lastModification, Integer nutritionistId) {
+    public RecipeUpdateResult(String id, String name, String description, String preparation, String ingredients, Integer favorite, Date createdAt, Date lastModification, String nutritionistId) {
         this.id = id;
         this.name = name;
         this.description = description;

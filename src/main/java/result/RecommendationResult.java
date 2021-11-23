@@ -11,9 +11,9 @@ public class RecommendationResult {
     private String description;
     private Date createdAt;
     private Date lastModification;
-    private Integer nutritionistId;
+    private String nutritionistId;
 
-    public RecommendationResult(String id, String name, String description, Date createdAt, Date lastModification, Integer nutritionistId) {
+    public RecommendationResult(String id, String name, String description, Date createdAt, Date lastModification, String nutritionistId) {
         this.id = id;
         this.name = name;
         this.description = description;
